@@ -1,0 +1,21 @@
+[
+    {
+      "level": 1,
+      "imageLeft": "assets/images/level1_left.png",
+      "imageRight": "assets/images/level1_right.png",
+      "differences": [
+        {"x": 150, "y": 200, "radius": 20},
+        {"x": 300, "y": 350, "radius": 20}
+      ]
+    },
+    {
+      "level": 2,
+      "imageLeft": "assets/images/level2_left.png",
+      "imageRight": "assets/images/level2_right.png",
+      "differences": [
+        {"x": 100, "y": 150, "radius": 15},
+        {"x": 250, "y": 300, "radius": 15}
+      ]
+    }
+  ]
+  
